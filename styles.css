@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;600&family=IBM+Plex+Sans:wght@600&display=swap');
+html{
+    background-color: black;
+    color:white;
+    font-family: "Bitter", serif;
+}
+#hi{
+    font-family: 'IBM Plex Sans', sans-serif;    
+    font-size: 50px;
+
+}
+
+#hutao{
+    border-radius: 100%;
+    width:250px;
+    height:auto;
+}
+
+.gray{
+    color:gray;
+}
+
+.bitter{
+    font-family: "Bitter", serif;
+}
+.imb{
+    font-family: "IMB Plex Sans", sans-serif;
+}
+.centered{
+    text-align:center;
+}
+.sociallink{
+    width:30px;
+    
+}
