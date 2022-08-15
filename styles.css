@@ -12,10 +12,14 @@ html{
 
 #hutao{
     border-radius: 100%;
-    width:250px;
+    width:300px;
     height:auto;
 }
 
+#jinning{
+    border-radius:10%;
+
+}
 .gray{
     color:gray;
 }
